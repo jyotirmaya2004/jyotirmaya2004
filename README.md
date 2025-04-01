@@ -26,5 +26,25 @@ I'm a passionate **Software Engineer in the making** 🚀, currently studying **
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotirmaya2004)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotirmayabehera2004@gmail.com)
 
+📍 **Location:** Chakarjuni, Beldandia, Singla, Balasore, Odisha, India  
+
+
+
+## 📚 Education  
+- **Primary (Class 1-5):** Beldandia Primary School, Beldandia  
+- **Middle School (Class 6-8):** Kailash Chandra U.P. School, Beldandia  
+- **High School (Class 9-10):** Kunja Bihari Nodal High School, Tapandia  
+- **Higher Secondary (Class 11-12):** Fakir Mohan Higher Secondary School, Balasore  
+- **Current:** 🎓 IMCA (Integrated MCA), **Utkal University, Bhubaneswar**  
+
+
+## 🎯 Interests & Goals  
+- 🔹 Learning **full-stack development**  
+- 🔹 Exploring **data structures and algorithms**  
+- 🔹 Becoming a **software engineer**  
+
+💡 I am open to learning new technologies, collaborating on projects, and contributing to open-source communities.  
+
+
 ---
 *Let's build something amazing together!* 💪
